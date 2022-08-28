@@ -1,4 +1,5 @@
-@geeksforgeeks
+
+
 PROS AND CONS OF BRUTE FORCE ALGORITHM:
 
 Pros:
@@ -22,3 +23,8 @@ Brute force algorithms are not constructive or creative compared to algorithms t
 Conclusion:
 
 Brute force algorithm is a technique that guarantees solutions for problems of any domain helps in solving the simpler problems and also provides a solution that can serve as a benchmark for evaluating other design techniques, but takes a lot of run time and inefficient.
+
+
+![brute](https://user-images.githubusercontent.com/75434427/187055869-004e0941-3fad-48fe-9bc9-8c76233e86d5.gif)
+
+[@geeksforgeeks]
